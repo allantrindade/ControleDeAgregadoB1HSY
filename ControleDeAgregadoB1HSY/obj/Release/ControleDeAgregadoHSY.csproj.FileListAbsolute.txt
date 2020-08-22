@@ -1,0 +1,9 @@
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Release\ControleDeAgregado.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Release\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Release\ControleDeAgregado.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ControleDeAgregadoHSY.csprojResolveAssemblyReference.cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ControleDeAgregado.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ControleDeAgregadoHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Release\ControleDeAgregado.pdb

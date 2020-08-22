@@ -1,0 +1,25 @@
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregadoOvomaltine.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregadoOvomaltine.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregadoOvomaltineHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregadoOvomaltine.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltineHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoOvomaltine.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltineHSY.csprojResolveAssemblyReference.cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltineHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoOvomaltine.pdb

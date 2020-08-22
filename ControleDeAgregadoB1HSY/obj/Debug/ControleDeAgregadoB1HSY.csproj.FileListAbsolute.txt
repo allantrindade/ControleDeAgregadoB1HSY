@@ -1,0 +1,26 @@
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoB1.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\bin\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoB1.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoB1HSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoOvomaltineHSY - Copia\ControleDeAgregadoOvomaltineHSY\obj\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.exe.config
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\bin\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csproj.GenerateResource.cache
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csproj.CoreCompileInputs.cache
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.exe
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.pdb
+D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csprojAssemblyReference.cache

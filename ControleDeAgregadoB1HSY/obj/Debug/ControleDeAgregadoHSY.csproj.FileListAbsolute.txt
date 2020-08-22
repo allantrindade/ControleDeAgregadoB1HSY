@@ -1,0 +1,16 @@
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Debug\ControleDeAgregado.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Debug\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\bin\Debug\ControleDeAgregado.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Debug\ControleDeAgregado.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Debug\ControleDeAgregadoHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Debug\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ContadorDeDiasHSY - Copia\ContadorDeDiasHSY\obj\Debug\ControleDeAgregado.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregado.exe.config
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\bin\Debug\ControleDeAgregado.pdb
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ContadorDeDiasHSY.Principal.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregado.Properties.Resources.resources
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregadoHSY.csproj.GenerateResource.Cache
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregado.exe
+D:\Users\Allan\Documents\Visual Studio 2012\Projects\ControleDeAgregadoHSY\ControleDeAgregadoHSY\obj\Debug\ControleDeAgregado.pdb
