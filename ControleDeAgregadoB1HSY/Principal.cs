@@ -17,25 +17,21 @@ namespace ContadorDeDiasHSY
             InitializeComponent();
 
         }
-		double barra17g = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["barra17g"]);
-        double barra20g = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["barra20g"]);
-        double barra40g = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["barra40g"]);
-        double barra87g = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["barra87g"]);
-        double barra85g = Convert.ToDouble(System.Configuration.ConfigurationManager.AppSettings["barra85g"]);
 
         private void Principal_Load(object sender, EventArgs e)
         {
         
-            BoxBarras.Items.Add("Barra CNC " + barra20g + "g");
-            BoxBarras.Items.Add("Barra CNC " + barra40g + "g");
-            BoxBarras.Items.Add("Barra CNC " + barra87g + "g");
-            BoxBarras.Items.Add("Barra Dark Caramelo " + barra17g + "g");
-            BoxBarras.Items.Add("Barra Dark Caramelo " + barra85g + "g");
-            BoxBarras.Items.Add("Barra Dark Cranberry " + barra20g + "g");
-            BoxBarras.Items.Add("Barra Dark Cranberry " + barra85g + "g");
-            BoxBarras.Items.Add("Barra Dark Laranja " + barra85g + "g");
-            BoxBarras.Items.Add("Barra Ovomaltine " + barra20g + "g");
-            BoxBarras.Items.Add("Barra Ovomaltine " + barra87g + "g");
+            BoxBarras.Items.Add("Barra CNC 20g");
+            BoxBarras.Items.Add("Barra CNC 40g");
+            BoxBarras.Items.Add("Barra CNC 87g");
+            BoxBarras.Items.Add("Barra Dark 73% 85g");
+            BoxBarras.Items.Add("Barra Dark Caramelo 17g");
+            BoxBarras.Items.Add("Barra Dark Caramelo 85g");
+            BoxBarras.Items.Add("Barra Dark Cranberry 20g");
+            BoxBarras.Items.Add("Barra Dark Cranberry 85g");
+            BoxBarras.Items.Add("Barra Dark Laranja 85g");
+            BoxBarras.Items.Add("Barra Ovomaltine 20g");
+            BoxBarras.Items.Add("Barra Ovomaltine 87g");
         }
 
         public void Calcular()
@@ -51,42 +47,42 @@ namespace ContadorDeDiasHSY
                 kilos = Convert.ToDouble(BoxKilos.Text);
                 
 				//Barras 17g
-                if (BoxBarras.SelectedIndex == 3)
+                if (BoxBarras.SelectedIndex == 4)
                 {
-                    produzido = (formas * 22 * barra17g / 1000);
+                    produzido = (formas * 22 * 17 / 1000);
                     porcentagem = ((kilos / produzido) * 100);
                 }
 				
                 //Barras 20g
-                if (BoxBarras.SelectedIndex == 0 | BoxBarras.SelectedIndex == 5 | BoxBarras.SelectedIndex == 8)
+                if (BoxBarras.SelectedIndex == 0 | BoxBarras.SelectedIndex == 6 | BoxBarras.SelectedIndex == 9)
                 {
-                    produzido = (formas * 22 * barra20g / 1000);
+                    produzido = (formas * 22 * 20 / 1000);
                     porcentagem = ((kilos / produzido) * 100);
                 }
 
                 //Barras 40g
                 if (BoxBarras.SelectedIndex == 1)
                 {
-                    produzido = (formas * 18 * barra40g / 1000);
+                    produzido = (formas * 18 * 40 / 1000);
                     porcentagem = ((kilos / produzido) * 100);
                 }
 
                 //Barras 87g
-                if (BoxBarras.SelectedIndex == 2 | BoxBarras.SelectedIndex == 9)
+                if (BoxBarras.SelectedIndex == 2 | BoxBarras.SelectedIndex == 10)
                 {
-                    produzido = (formas * 6 * barra87g / 1000);
+                    produzido = (formas * 6 * 87 / 1000);
                     porcentagem = ((kilos / produzido) * 100);
                 }
 
                 //Barras 85g
-                if (BoxBarras.SelectedIndex == 4 | BoxBarras.SelectedIndex == 6 | BoxBarras.SelectedIndex == 7)
+                if (BoxBarras.SelectedIndex == 3 | BoxBarras.SelectedIndex == 5 | BoxBarras.SelectedIndex == 7 | BoxBarras.SelectedIndex == 8)
                 {
-                    produzido = (formas * 14 * barra85g / 1000);
+                    produzido = (formas * 14 * 85 / 1000);
                     porcentagem = ((kilos / produzido) * 100);
                 }
                 
-                    BoxAgregado.Text = Math.Round(porcentagem, 2).ToString() + "%";
-                    BoxProduzido.Text = produzido.ToString();
+                BoxAgregado.Text = Math.Round(porcentagem, 2).ToString() + "%";
+                BoxProduzido.Text = produzido.ToString();
 
                     switch (BoxBarras.SelectedIndex)
                     {
@@ -123,19 +119,30 @@ namespace ContadorDeDiasHSY
                                 BoxAgregado.BackColor = Color.Red;
                             }
                             break;
-                        //Barra Dark Caramelo 17g
-                         case 3:
+                        //Barra Dark 77% 85g
+                        case 3:
                             if (Math.Round(porcentagem, 2) >= 9 && Math.Round(porcentagem, 2) <= 11)
-                                {
-                                    BoxAgregado.BackColor = Color.Green;
-                                }
+                            {
+                                BoxAgregado.BackColor = Color.Green;
+                            }
                             else
-                                {
-                                    BoxAgregado.BackColor = Color.Red;
-                                }
+                            {
+                                BoxAgregado.BackColor = Color.Red;
+                            }
                             break;
-                        //Barra Dark Caramelo 85g
+                        //Barra Dark Caramelo 17g
                         case 4:
+                             if (Math.Round(porcentagem, 2) >= 9 && Math.Round(porcentagem, 2) <= 11)
+                             {
+                                BoxAgregado.BackColor = Color.Green;
+                             }
+                             else
+                             {
+                                BoxAgregado.BackColor = Color.Red;
+                             }
+                             break;
+                        //Barra Dark Caramelo 85g
+                        case 5:
                             if (Math.Round(porcentagem, 2) >= 9 && Math.Round(porcentagem, 2) <= 11)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -146,7 +153,7 @@ namespace ContadorDeDiasHSY
                             }
                             break;							
                         //Barra Dark Cranberry 20g
-                        case 5:
+                        case 6:
                             if (Math.Round(porcentagem, 2) >= 5 && Math.Round(porcentagem, 2) <= 7)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -157,7 +164,7 @@ namespace ContadorDeDiasHSY
                             }
                             break;
                         //Barra Dark Cranberry 85g
-                        case 6:
+                        case 7:
                             if (Math.Round(porcentagem, 2) >= 7 && Math.Round(porcentagem, 2) <= 9)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -168,7 +175,7 @@ namespace ContadorDeDiasHSY
                             }
                             break;
                         //Barra Dark Laranja 85g
-                        case 7:
+                        case 8:
                             if (Math.Round(porcentagem, 2) >= 5 && Math.Round(porcentagem, 2) <= 7)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -179,7 +186,7 @@ namespace ContadorDeDiasHSY
                             }
                             break;
                         //Barra Ovomaltine 20g
-                        case 8:
+                        case 9:
                             if (Math.Round(porcentagem, 2) >= 9 && Math.Round(porcentagem, 2) <= 11)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -190,7 +197,7 @@ namespace ContadorDeDiasHSY
                             }
                             break;
                         //Barra Ovomaltine 87g
-                        case 9:
+                        case 10:
                             if (Math.Round(porcentagem, 2) >= 9 && Math.Round(porcentagem, 2) <= 11)
                             {
                                 BoxAgregado.BackColor = Color.Green;
@@ -237,12 +244,12 @@ namespace ContadorDeDiasHSY
         }
 
 
-        private void btnCalcular_Click(object sender, EventArgs e)
+        private void BtnCalcular_Click(object sender, EventArgs e)
         {
             Calcular();
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void Button1_Click_1(object sender, EventArgs e)
         {
             Limpar();
         }
@@ -282,21 +289,26 @@ namespace ContadorDeDiasHSY
                 BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Cookies;
             }
 
-            if (BoxBarras.SelectedIndex == 3 || BoxBarras.SelectedIndex == 4)
+            if (BoxBarras.SelectedIndex == 3)
+            {
+                BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Cafe;
+            }
+
+            if (BoxBarras.SelectedIndex == 4 || BoxBarras.SelectedIndex == 5)
             {
                 BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Caramelo;
             }
 			
-            if (BoxBarras.SelectedIndex == 5 || BoxBarras.SelectedIndex == 6)
+            if (BoxBarras.SelectedIndex == 6 || BoxBarras.SelectedIndex == 7)
             {
                 BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Cranberry;
             }
 
-            if (BoxBarras.SelectedIndex == 7)
+            if (BoxBarras.SelectedIndex == 8)
             {
                 BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Laranja;
             }
-            if (BoxBarras.SelectedIndex == 8 || BoxBarras.SelectedIndex == 9)
+            if (BoxBarras.SelectedIndex == 9 || BoxBarras.SelectedIndex == 10)
             {
                 BackgroundImage = global::ControleDeAgregadoB1.Properties.Resources.Logo_Ovomaltine;
             }

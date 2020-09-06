@@ -77,7 +77,7 @@
             this.btnCalcular.TabIndex = 5;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
-            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
+            this.btnCalcular.Click += new System.EventHandler(this.BtnCalcular_Click);
             // 
             // label3
             // 
@@ -164,7 +164,7 @@
             this.button1.TabIndex = 6;
             this.button1.Text = "Limpar";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.button1.Click += new System.EventHandler(this.Button1_Click_1);
             // 
             // BoxBarras
             // 

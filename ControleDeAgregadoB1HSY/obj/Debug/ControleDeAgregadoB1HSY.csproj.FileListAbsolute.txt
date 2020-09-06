@@ -23,4 +23,3 @@ D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\Con
 D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csproj.CoreCompileInputs.cache
 D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.exe
 D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1.pdb
-D:\Users\Allan\Documents\Visual Studio 2017\Projects\ControleDeAgregadoB1HSY\ControleDeAgregadoB1HSY\obj\Debug\ControleDeAgregadoB1HSY.csprojAssemblyReference.cache
